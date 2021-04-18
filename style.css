@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+}
+header{
+    margin: 3vh 0 3vh 10vw;
+}
+
+main{
+    margin: 3vh 2vh 3vh 20vw;
+}
+section{
+    margin: 5vh 0 5vh 0;
+}
+h2{
+    color:blue;
+}
+h3{
+    color: blueviolet;
+    border-bottom: 5px solid #064e40;
+    width:max-content
+}
